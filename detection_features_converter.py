@@ -150,6 +150,3 @@ if __name__ == '__main__':
     h_train.close()
     h_val.close()
     print("done!")
-#C:\Program Files\JetBrains\PyCharm 2018.3.4\helpers\pydev\pydevconsole.py:50:
-#DeprecationWarning: decodestring() is a deprecated alias since Python 3.1,
-#use decodebytes() from _pydev_bundle.pydev_umd import runfile, _set_globals_function

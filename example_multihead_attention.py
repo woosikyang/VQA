@@ -55,6 +55,3 @@ class Multihead(nn.Module) :
         bs = q.size(0)
         k = self.k_linear(k).view(bs,-1,self.h,self.d_k)
 
-
-t = torch.randn(5,3)
-tmp(t).view(-1).size()
