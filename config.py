@@ -1,5 +1,5 @@
 import os
-data_path = '/media/woosik/7878282F7827EA98/Users/yang/Desktop/VQA_Example/v2_data'
+data_path = 'data'
 data_glove_path = os.path.join(data_path,'glove')
 saved_data_path = '/media/woosik/7878282F7827EA98/Users/yang/Desktop/논문/연습/data'
 
